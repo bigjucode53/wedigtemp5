@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="532.18402mm"
+   height="287.00452mm"
+   viewBox="0 0 532.18402 287.00452"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="forme_balise_1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.29509283"
+     inkscape:cx="843.80226"
+     inkscape:cy="1101.3483"
+     inkscape:window-width="1366"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(182.06391,30.638278)">
+    <path
+       d="m 332.06649,21.141511 c 27.99153,66.591719 -27.72811,110.990949 15.71942,156.504099 14.26182,74.84957 -40.36944,76.36171 -67.94352,77.00525 -28.11304,0.68791 -56.30492,1.40229 -86.62273,1.54675 -135.637859,4.00542 -171.643594,-64.6469 -296.08202,-67.79596 -56.38093,-12.45965 -105.84046,-150.407994 -62.99937,-204.499973 38.53326,-27.771198 177.703433,-6.794488 262.688925,-9.103254 36.046825,-0.948002 0,0 103.359505,26.86353"
+       fill="#002d37"
+       opacity="0.997"
+       id="path9"
+       style="stroke-width:0.264583"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>
